@@ -1,0 +1,10 @@
+id: YDP183H001-V3
+category: displays
+size: "1.83"
+panel: tft
+resolution: 240x280
+interface: [mcu]
+driver: ST7789P3
+touch: null
+outline: 32.2 x 39.23 mm
+active_area: 30.1968 x 35.2296 mm
